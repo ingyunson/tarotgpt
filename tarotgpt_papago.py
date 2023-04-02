@@ -33,7 +33,7 @@ def get_translate(text, source_lang, target_lang):
 
 ##Tarot reading AI Area
 
-openai.api_key = "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"
+openai.api_key = "[YOUR OPEN AI API KEY]"
 
 
 
